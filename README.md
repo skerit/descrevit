@@ -1,8 +1,6 @@
-# Descrevit
+# Descrevit[*](https://translate.google.com/#en/la/synchronous)
 
-Sometimes methods in Node require async operations and have no sync variants. Using this function we can fix this and keeping our code clean.
-
-(Descrevit = Latin for Synchronous)
+Sometimes methods in Node require async operations and have no sync variants. Using this function we can make this sync and keep our code clean.
 
 Thanks to [@abbr](https://github.com/abbr) for providing [deasync](https://github.com/abbr/deasync)
 
