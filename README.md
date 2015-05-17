@@ -1,6 +1,6 @@
 # Descrevit
 
-Sometimes methods in Node do async operations and have no sync variants. Using this function we can make this a breeze and keeping your code clean.
+Sometimes methods in Node require async operations and have no sync variants. Using this function we can fix this and keeping our code clean.
 
 (Descrevit = Latin for Synchronous)
 
