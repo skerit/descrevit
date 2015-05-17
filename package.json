@@ -1,0 +1,31 @@
+{
+  "name": "descrevit",
+  "version": "0.1.0",
+  "description": "Make asynchonous operations synchronous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crobays/descrevit.git"
+  },
+  "keywords": [
+    "async",
+    "sync",
+    "wait"
+  ],
+  "author": {
+    "name": "Maikel Vlasman",
+    "email": "descrevit-zmo0de@userex.nl",
+    "url": "https://github.com/crobays"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crobays/descrevit/issues"
+  },
+  "homepage": "https://github.com/crobays/descrevit",
+  "dependencies": {
+    "deasync": "0.0.10"
+  }
+}
